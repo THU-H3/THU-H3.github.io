@@ -24,7 +24,7 @@ jobs:
         with:
           repository: THU-H3/next
           ref: master
-          path: themes/mext
+          path: themes/next
 
       # 这里用的是 Node.js 14.x
       - name: Set up Node.js
