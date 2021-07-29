@@ -120,6 +120,6 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:THU-H3/THU-H3.github.io.git
-  branch: master
+  branch: deploy
   name: THU-H3
   email: H3@anyi.fan
